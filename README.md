@@ -2,6 +2,14 @@
 
 Hackathon MVP dashboard for a simulated AI trading agent. Axorynth combines live crypto market data, technical indicators, structured signal reasoning, risk checks, and a paper-trading panel in a Next.js interface.
 
+## Live Demo
+
+The app is deployed on Vercel:
+
+```text
+https://axorynth-ai-trading-agent.vercel.app/
+```
+
 ## Features
 
 - Live crypto market snapshots from Binance, with CoinGecko and demo-data fallbacks.
